@@ -1,1 +1,3 @@
-first dev commit
+# Hey
+
+Some update
